@@ -1,0 +1,16 @@
+{
+  "name": "webfont-demo",
+  "version": "1.0.0",
+  "description": "webfont demo",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-webfont": "^0.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}

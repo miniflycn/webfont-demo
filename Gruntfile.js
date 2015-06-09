@@ -7,9 +7,10 @@ module.exports = function(grunt) {
                 src: 'icons/*.svg',
                 dest: 'build',
                 options: {
-                    stylesheet: 'sass',
+                    stylesheet: 'scss',
                     hashes: false,
-                    engine: 'node'
+                    engine: 'node',
+                    types: 'eot,woff,ttf,svg'
                 }
             }
         }
